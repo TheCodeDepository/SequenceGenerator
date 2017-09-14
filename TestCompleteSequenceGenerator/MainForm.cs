@@ -34,11 +34,7 @@ namespace TestCompleteSequenceGenerator
             {
                 stringExist = false;
             }
-
-
         }
-
-
 
         private void PathTb_TextChanged(object sender, EventArgs e)
         {
@@ -87,8 +83,6 @@ namespace TestCompleteSequenceGenerator
             {
                 PathTb.Text = saveFile.FileName;
             }
-
-
         }
 
         private void IcrementAmount_ValueChanged_1(object sender, EventArgs e)
